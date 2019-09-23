@@ -1,0 +1,11 @@
+{
+    "name": "com.cfoulston.unityreorderablelist",
+    "displayName": "Unity Reorderable list",
+    "version": "0.0.1-preview",
+    "unity": "2018.1",
+    "description": "An attempt to mimic the ReorderableList within Unity while adding some extended functionality.",
+    "dependencies": {},
+    "keywords": [
+        "editor"
+    ]
+}
